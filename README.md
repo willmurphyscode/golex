@@ -1,3 +1,11 @@
+# 2024 notes
+
+This is a personal project to see how much work would be needed to resurrect this
+archived and abandoned tool. Feel free to [`@` me on mastodon](https://fosstodon.org/@willmurphy)
+if you want to help, but please don't rely on this for anything important; it's
+very likely that I will get distracted and abandon this project in like the next
+month.
+
 # golex
 #### flex-compatible lexical analyser generator
 
